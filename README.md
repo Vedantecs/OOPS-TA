@@ -46,6 +46,6 @@ This experiment demonstrates:
 ---
 
 ### Student Details
-- Vedant Sikariya Bhai
+- Vedant Sikariya 
 - Batch- B2
 - Section-Roll no - O1-30
